@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "title": "Classic Running Shoes",
+    "price": 79.99,
+    "description": "Comfortable running shoes with breathable mesh and cushioned sole.",
+    "category": "men's clothing",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&auto=format&fit=crop&q=60",
+    "rating": 4.5,
+    "stock": 10
+  },
+  {
+    "id": 2,
+    "title": "Elegant Pendant Necklace",
+    "price": 49.5,
+    "description": "Minimalist gold-plated pendant necklace for everyday wear.",
+    "category": "jewelery",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&auto=format&fit=crop&q=60",
+    "rating": 4.2,
+    "stock": 0
+  },
+  {
+    "id": 3,
+    "title": "Wireless Headphones",
+    "price": 119.0,
+    "description": "Noise-cancelling over-ear wireless headphones with 30h battery.",
+    "category": "electronics",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&auto=format&fit=crop&q=60",
+    "rating": 4.6,
+    "stock": 5
+  },
+  {
+    "id": 4,
+    "title": "Casual Cotton T-Shirt",
+    "price": 19.99,
+    "description": "Soft cotton tee with relaxed fit.",
+    "category": "men's clothing",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&auto=format&fit=crop&q=60",
+    "rating": 4.0,
+    "stock": 0
+  },
+  {
+    "id": 5,
+    "title": "Summer Floral Dress",
+    "price": 59.99,
+    "description": "Lightweight summer dress with floral pattern and A-line cut.",
+    "category": "women's clothing",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&auto=format&fit=crop&q=60",
+    "rating": 4.4,
+    "stock": 7
+  },
+  {
+    "id": 6,
+    "title": "Smartphone 128GB",
+    "price": 399.99,
+    "description": "6.1-inch display, dual camera, 128GB storage, all‑day battery life.",
+    "category": "electronics",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&auto=format&fit=crop&q=60",
+    "rating": 4.3,
+    "stock": 2
+  },
+  {
+    "id": 7,
+    "title": "Leather Wallet",
+    "price": 29.99,
+    "description": "Compact genuine leather wallet with RFID blocking.",
+    "category": "men's clothing",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&auto=format&fit=crop&q=60",
+    "rating": 4.1,
+    "stock": 0
+  },
+  {
+    "id": 8,
+    "title": "Diamond Stud Earrings",
+    "price": 199.0,
+    "description": "Brilliant-cut diamond studs with sterling silver setting.",
+    "category": "jewelery",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&auto=format&fit=crop&q=60",
+    "rating": 4.7,
+    "stock": 3
+  },
+  {
+    "id": 9,
+    "title": "Yoga Mat Pro",
+    "price": 39.99,
+    "description": "Non-slip, eco-friendly yoga mat with extra cushioning.",
+    "category": "women's clothing",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&auto=format&fit=crop&q=60",
+    "rating": 4.3,
+    "stock": 0
+  },
+  {
+    "id": 10,
+    "title": "Trail Running Shoes",
+    "price": 89.99,
+    "description": "Durable trail runners with aggressive tread and water resistance.",
+    "category": "men's clothing",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&auto=format&fit=crop&q=60",
+    "rating": 4.6,
+    "stock": 8
+  }
+]
