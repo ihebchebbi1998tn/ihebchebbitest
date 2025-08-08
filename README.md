@@ -61,10 +61,6 @@ Our search bar goes way beyond basic filters—it's designed to understand what 
 
 ---
 
-### 🪙 Bonus: Blockchain Integration (Optional)
-This AI-powered catalog could be integrated with blockchain features by using token-gated pricing (special prices for users holding certain tokens), storing user preferences or purchase history on-chain for privacy and portability, and enabling loyalty programs via smart contracts that reward users with discounts or perks based on their on-chain activity. This would make pricing and personalization transparent, secure, and user-owned. Additionally, dynamic pricing rules could be published on-chain for auditability, and product recommendations could be personalized based on verified, decentralized user data.
-
----
 
 ### 🪙 Bonus: Blockchain Integration (Optional)
 This AI-powered catalog could be integrated with blockchain features by using token-gated pricing (special prices for users holding certain tokens), storing user preferences or purchase history on-chain for privacy and portability, and enabling loyalty programs via smart contracts that reward users with discounts or perks based on their on-chain activity. This would make pricing and personalization transparent, secure, and user-owned.
